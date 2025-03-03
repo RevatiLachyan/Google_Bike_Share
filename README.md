@@ -14,9 +14,10 @@ The primary objective is to answer the following question:
 
 ### Dataset
 
-- The analysis is based on historical bike trip data from the past 12 months.
+- The analysis is based on historical bike trip data from the past 12 months(February 2024-January 2025).
 - Due to the large dataset size, a connection was created in Excel without loading all data into memory.
 - Data transformations and visualizations were performed in Excel.
+- Link: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 ### Analysis Process
 
