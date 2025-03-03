@@ -1,4 +1,3 @@
-# Google_Bike_Share
 # Cyclistic Bike-Share Analysis
 
 ## Case Study: How Does a Bike-Share Navigate Speedy Success?
